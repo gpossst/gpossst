@@ -4,12 +4,14 @@ My name is Garrett! I'm a Computer Science and FinTech student at Virginia Tech 
 
 After school, I'd like to pursue a career in software development because I really enjoy building things that people actually use. Currently, I build things on the side whenever I have a need that I can't find a solution for. 
 
+### [Here's my website!](https://garrett.one)
+
 ## Current Projects
 ### [Playlist Transfers](https://playlisttransfers.app)
 A web app for transferring playlists from one streaming service to another. It uses APIs from services like Spotify and Apple Music while also utilizing a Node.js server that scrapes then processes playlist data. Right now, scraping with Spotify is completed and I'm working with the Apple Music API to sign users in with Apple.
 
-### [Personal Website](https://garrett.one)
-Up to this point, I haven't had a personal website! My next major project is to build something to house everything from coding to photography to link sharing. 
+### Internships
+I'm currently spending most of my time applying to internships and practicing [Leetcode](https://leetcode.com/u/gpossst/) problems for assessments and interviews. It's all super nerve-racking, but if you want to get in contact with me, contact me at gpost@vt.edu.
 
 ## Skills
 **_Languages:_** Python `Intermediate`, Java `Intermediate`, Swift `Intermediate`, TypeScript `Intermediate`, JavaScript `Advanced`, HTML `Advanced`, CSS `Advanced`
