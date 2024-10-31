@@ -1,10 +1,8 @@
 # Garrett Post
-## About Me
+## [About Me](https://garrett.one)
 My name is Garrett! I'm a Computer Science and FinTech student at Virginia Tech `Go Hokies`.
 
 After school, I'd like to pursue a career in software development because I really enjoy building things that people actually use. Currently, I build things on the side whenever I have a need that I can't find a solution for. 
-
-### [Here's my website!](https://garrett.one)
 
 ## Current Projects
 ### [Playlist Transfers](https://playlisttransfers.app)
