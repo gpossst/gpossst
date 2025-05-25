@@ -7,8 +7,8 @@ After school, I'd like to pursue a career in software development because I real
 [Personal Website](https://garrett.one) - Outdated
 
 ## Current Projects
-### [Playlist Transfers](https://playlisttransfers.app)
-A web app for transferring playlists from one streaming service to another. It uses APIs from services like Spotify and Apple Music while also utilizing a Node.js server that scrapes then processes playlist data. Right now, scraping with Spotify is completed and I'm working with the Apple Music API to sign users in with Apple.
+### [Public Software Project](https://github.com/Public-Software-Project)
+Building apps for users by users. The goal is to make a suite of high quality open source apps for the future. They'll be able to download, use, contribute to, and improve these apps for free. To enable secure syncing, users can run one, easy to set up server at home and let it run their apps for free. If they don't want to do that, we're also working on hosting for users that don't have the ability or means to host their own.
 
 ### [Reformify](https://github.com/gpossst/reformify)
 The fix for having to set up your own backend when all you want is a simple form. Perfect for feedback and contact forms! Allows for a simplified form viewing, export, and development experience. Coming soon... 👀
