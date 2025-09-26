@@ -11,7 +11,7 @@ After school, I'd like to pursue a career in software development because I real
 
 **_Technologies:_** React, React Native, Next.js, Node.js, Express.js, MongoDB, SwiftUI, Tailwind CSS, Firebase, Auth0
 
-# Everything Else
+## Everything Else
 **_Contact:_** The best way to get in contact with me is through one of the social medias I have listed to the left. I'm more likely to check Instagram.
 
 **_Private Repos:_** If code is private, that's to ensure the security of a project. In some cases the repository holds the code for a project developed for a company, so it's probably best I keep those private.
