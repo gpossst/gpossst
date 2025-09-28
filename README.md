@@ -4,11 +4,6 @@ My name is Garrett! I'm a Computer Science and FinTech student at Virginia Tech 
 
 After school, I'd like to pursue a career in software development because I really enjoy building things that people actually use. Currently, I build things on the side whenever I have a need that I can't find a solution for. 
 
-## Skills
-**_Languages:_** Python `Intermediate`, Java `Intermediate`, Swift `Intermediate`, TypeScript `Intermediate`, JavaScript `Advanced`, HTML `Advanced`, CSS `Advanced`
-
-**_Technologies:_** React, React Native, Next.js, Node.js, Express.js, MongoDB, SwiftUI, Tailwind CSS, Firebase, Auth0
-
 ## Everything Else
 **_Contact:_** The best way to get in contact with me is through one of the social medias I have listed to the left. I'm more likely to check Instagram.
 
