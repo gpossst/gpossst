@@ -6,8 +6,7 @@ After school, I'd like to pursue a career in software development because I real
 
 ## Current Project
 I'm building an app to help me streamline my internship application workflow. Check it out, it's free:
-
-(Opentern)[https://opentern.io]
+[Opentern](https://opentern.io)
 
 ## Everything Else
 **_Contact:_** The best way to get in contact with me is through one of the social medias I have listed to the left. I'm more likely to check Instagram.
